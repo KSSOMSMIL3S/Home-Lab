@@ -14,7 +14,26 @@ This is my demonstration of creating a Type-2 Hypervisor running on Linux, in co
 ## Introduction
 
 ## Desktop
+*Specifications*
+Lenovo ThinkCentre M910S
+Intel i5-6500 CPU @ 3.20GHz (1 Socket)
+
+
 ## ProxMox
+*Configurations*
+-Virtual Environment ver 9.1.1
+-4 CPUs
+-67.73 GiB HD space
+-62.69 Ram
+
 ## Open Media Vault
+*Configurations*
+
 ## Docker
+*Configurations*
+
 ## JellyFin
+*Configurations*
+
+
+
