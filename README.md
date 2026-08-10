@@ -1,5 +1,5 @@
 # NSA Home-Lab
-This is my demonstration of creating a Type-2 Hypervisor running on Linux, in combination of building my private cloud storage network through utilizing Open Media Vault . In addition, this hypervisor will host a private media streaming service, hosted by Jellyfin encased in a docker container. 
+This is my demonstration of creating a Type-2 Hypervisor running on Linux, in combination of building my private cloud storage network through utilizing Open Media Vault. In addition, this hypervisor will host a private media streaming service, hosted by Jellyfin encased in a docker container. 
 ## Table of Contents
 1. <a href="#Desktop">Desktop</a>
 
@@ -21,10 +21,10 @@ Intel i5-6500 CPU @ 3.20GHz (1 Socket)
 
 ## ProxMox
 *Configurations*
--Virtual Environment ver 9.1.1
--4 CPUs
--67.73 GiB HD space
--62.69 Ram
+- Virtual Environment ver 9.1.1
+- 4 CPUs
+- 67.73 GiB HD space
+- 62.69 Ram
 
 ## Open Media Vault
 *Configurations*
