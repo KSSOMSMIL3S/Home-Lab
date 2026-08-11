@@ -15,8 +15,8 @@ This is my demonstration of creating a Type-2 Hypervisor running on Linux, in co
 
 ## Desktop
 *Specifications*
-Lenovo ThinkCentre M910S
-Intel i5-6500 CPU @ 3.20GHz (1 Socket)
+- Lenovo ThinkCentre M910S
+- Intel i5-6500 CPU @ 3.20GHz (1 Socket)
 
 
 ## ProxMox
